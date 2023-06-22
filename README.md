@@ -164,6 +164,7 @@
 
 <p>
   <img
+    dir="auto"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kisari&show_icons=true&locale=en&layout=compact"
     alt="kisari"
   />
@@ -171,7 +172,9 @@
 
 <p>
   <img
+    dir="auto"
     src="https://github-readme-streak-stats.herokuapp.com/?user=kisari&"
     alt="kisari"
   />
 </p>
+
