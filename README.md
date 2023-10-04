@@ -10,7 +10,7 @@
 </p>
 <h1 align="center">Hi there, I'm Minh! 👋</h1>
 
-- 🌱 I’m currently learning **Swift, Typescript**
+- 🌱 I’m currently learning **GraphQL, Typescript**
 
 - 👨‍💻 I'm studying at **RMIT University**
 
