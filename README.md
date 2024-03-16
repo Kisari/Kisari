@@ -10,13 +10,13 @@
 </p>
 <h1 align="center">Hi there, I'm Minh! 👋</h1>
 
-- 🌱 I’m currently learning **GraphQL, Typescript**
+- 🌱 I’m currently learning **AWS service, Typescript**
 
 - 👨‍💻 I'm studying at **RMIT University**
 
-- 💬 Ask me about **React, Nextjs**
+- 💬 Ask me about **React, SwiftUI, Java**
 
-- 🔎 I'm looking for **Frontend Developer** intern | part-time jobs
+- 🔎 I'm looking for **Web Developer || Mobile Developer** intern
  
 - 📫 **seikakukisari@gmail.com**
 
