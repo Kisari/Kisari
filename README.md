@@ -14,9 +14,9 @@
 
 - 👨‍💻 I'm studying at **RMIT University**
 
-- 💬 Ask me about **React, SwiftUI, Java**
+- 💬 Ask me about **React/Next, SwiftUI, Java**
 
-- 🔎 I'm looking for **Web Developer || Mobile Developer** intern
+- 🔎 I'm looking for **Web Developer || Mobile Developer** full-time fresher 
  
 - 📫 **seikakukisari@gmail.com**
 
