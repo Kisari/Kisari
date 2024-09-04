@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AWS service, Typescript**
 
-- 👨‍💻 I'm studying at **RMIT University** and **Intern at NetCompany** 
+- 👨‍💻 I'm studying at **RMIT University**
 
 - 💬 Ask me about **React, SwiftUI, Java**
 
