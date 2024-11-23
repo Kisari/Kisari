@@ -10,7 +10,7 @@
 </p>
 <h1 align="center">Hi there, I'm Minh! 👋</h1>
 
-- 🌱 I’m currently learning **AWS service, Typescript**
+- 🌱 I’m currently learning **Data communication & Net centric**
 
 - 👨‍💻 I'm studying at **RMIT University**
 
